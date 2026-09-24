@@ -1,0 +1,12 @@
+# Test matrix
+- valid xlsx and csv
+- missing required column
+- empty file
+- blank feedback
+- duplicate ID and duplicate row
+- text and out-of-range rating
+- malformed date
+- no rows after filters
+- theme classification precedence
+- priority score 0..100
+- Excel export sheet presence

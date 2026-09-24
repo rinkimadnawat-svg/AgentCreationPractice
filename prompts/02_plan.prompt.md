@@ -1,0 +1,1 @@
+Act as the Solution Architect. Using the approved product brief, inspect this repository and create a minimal implementation plan, module map, data contract, dependency list and test strategy. Do not implement.

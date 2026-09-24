@@ -1,0 +1,1 @@
+Perform a read-only release review using the test-data-product skill. Reconcile KPIs, inspect edge cases, test export integrity, and produce critical, important and optional findings with file evidence.

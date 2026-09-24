@@ -1,0 +1,1 @@
+Implement the approved plan in small vertical slices. First build ingestion and validation, then analytics, then UI, then export. State files before edits, invoke relevant skills, add tests, and stop at each acceptance gate.
